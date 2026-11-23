@@ -1,0 +1,60 @@
+
+/* CONFIGURAÇÕES GERAIS */
+body {
+    background-color: #eeeeee;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    color: #222;
+}
+
+/* TÍTULO */
+h1 {
+    background-color: #111111;
+    color: white;
+    padding: 25px;
+    margin: 0;
+}
+
+/* IMAGEM PRINCIPAL */
+img {
+    border-radius: 10px;
+}
+
+/* TÍTULO DA TABELA */
+h2 {
+    color: #111111;
+    margin-top: 30px;
+}
+
+/* TABELA */
+table {
+    width: 80%;
+    border-collapse: collapse;
+    background-color: white;
+    margin-bottom: 30px;
+}
+
+th {
+    background-color: #111111;
+    color: white;
+    padding: 18px;
+    font-size: 17px;
+}
+
+td {
+    padding: 18px;
+    text-align: center;
+    font-size: 16px;
+}
+
+tr:hover {
+    background-color: #dddddd;
+}
+
+/* RODAPÉ */
+footer {
+    background-color: #111111;
+    color: white;
+    padding: 15px;
+    margin-top: 30px;
+}
